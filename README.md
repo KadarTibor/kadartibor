@@ -1,5 +1,4 @@
 <!-- AUTO-GENERATED-CONTENT:END -->
-=======
 ### Hi there 👋
 
 <!--
