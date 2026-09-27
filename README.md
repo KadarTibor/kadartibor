@@ -1,7 +1,7 @@
 ### Hi, I'm Tibor 👋
 
 Senior full-stack engineer in Zurich. For the past 7 years I've been contributing to
-an investment platform (Ventru Capital space): TypeScript/Angular on the front, functional Scala
+an investment platform (Venture Capital space): TypeScript/Angular on the front, functional Scala
 (typelevel stack) on the back, Kubernetes underneath.
 
 I like building tools for developers: IDE plugins earlier in my career, browser
